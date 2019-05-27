@@ -11,3 +11,5 @@
 - [Robotic Operating System](https://smartsystemslab-uf.github.io/Projects/ROS)
 
 - [Smart Image Sensor](https://smartsystemslab-uf.github.io/Projects/SmartImageSensor)
+
+- Smart Sensor
